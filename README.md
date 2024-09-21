@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-  <img src="./assets/demonstration.png" alt="Graph visualization" width="50%"/>
+  <img src="./assets/demonstration.png" alt="Graph visualization"/>
 </div>
 
 <br>
